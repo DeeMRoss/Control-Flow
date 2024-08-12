@@ -1,0 +1,14 @@
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\bin\Debug\net8.0\CondiotionalStatements.exe
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\bin\Debug\net8.0\CondiotionalStatements.deps.json
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\bin\Debug\net8.0\CondiotionalStatements.runtimeconfig.json
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\bin\Debug\net8.0\CondiotionalStatements.dll
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\bin\Debug\net8.0\CondiotionalStatements.pdb
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.AssemblyInfoInputs.cache
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.AssemblyInfo.cs
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.dll
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\refint\CondiotionalStatements.dll
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.pdb
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\CondiotionalStatements.genruntimeconfig.cache
+C:\Users\DeantratriceRoss\Documents\NightTechWS\CondiotionalStatements\obj\Debug\net8.0\ref\CondiotionalStatements.dll
